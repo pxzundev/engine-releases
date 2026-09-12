@@ -1,0 +1,22 @@
+{
+  "version": "b10930",
+  "notes": "llama.cpp b10930 (official binaries, macOS repacked as zip)",
+  "platforms": {
+    "macos-aarch64": {
+      "url": "https://github.com/pxzundev/engine-releases/releases/download/b10930/engine-macos-aarch64.zip",
+      "sha256": "a828f0a6f32175e4b6b829002a18c92074a3fa54b89b3ebedce2563d2c2b4f90"
+    },
+    "windows-x86_64-cpu": {
+      "url": "https://github.com/pxzundev/engine-releases/releases/download/b10930/engine-windows-x86_64-cpu.zip",
+      "sha256": "a0c1bf04e7b7b4b6c7f280b6bef08ecaa170f2ba611830b2332bce9ddf352dab"
+    },
+    "windows-x86_64-vulkan": {
+      "url": "https://github.com/pxzundev/engine-releases/releases/download/b10930/engine-windows-x86_64-vulkan.zip",
+      "sha256": "ee489d90101575366ec3fcb86f7597ff9b646d09b88c0d83275d5c6ff81374dd"
+    },
+    "windows-x86_64-cuda": {
+      "url": "https://github.com/pxzundev/engine-releases/releases/download/b10930/engine-windows-x86_64-cuda.zip",
+      "sha256": "7d07deb817f7f380d1da119c76967d7ead0a4dbb02456c0edfda82a99122fed6"
+    }
+  }
+}
